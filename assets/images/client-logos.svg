@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <!-- Логотип 1 -->
+  <symbol id="client-logo-1" viewBox="0 0 120 60">
+    <rect width="120" height="60" rx="8" fill="#F5F7FA"/>
+    <text x="60" y="35" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#4CAF50">TechCorp</text>
+  </symbol>
+  
+  <!-- Логотип 2 -->
+  <symbol id="client-logo-2" viewBox="0 0 120 60">
+    <rect width="120" height="60" rx="8" fill="#F5F7FA"/>
+    <circle cx="30" cy="30" r="12" fill="#2196F3"/>
+    <text x="75" y="35" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#2196F3">InnovateLab</text>
+  </symbol>
+  
+  <!-- Логотип 3 -->
+  <symbol id="client-logo-3" viewBox="0 0 120 60">
+    <rect width="120" height="60" rx="8" fill="#F5F7FA"/>
+    <rect x="20" y="20" width="20" height="20" rx="4" fill="#FF9800"/>
+    <text x="75" y="35" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#FF9800">DesignStudio</text>
+  </symbol>
+  
+  <!-- Логотип 4 -->
+  <symbol id="client-logo-4" viewBox="0 0 120 60">
+    <rect width="120" height="60" rx="8" fill="#F5F7FA"/>
+    <polygon points="30,15 40,25 30,35 20,25" fill="#9C27B0"/>
+    <text x="75" y="35" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#9C27B0">CreativeHub</text>
+  </symbol>
+  
+  <!-- Логотип 5 -->
+  <symbol id="client-logo-5" viewBox="0 0 120 60">
+    <rect width="120" height="60" rx="8" fill="#F5F7FA"/>
+    <path d="M 20,30 L 30,20 L 40,30 L 30,40 Z" fill="#E91E63"/>
+    <text x="75" y="35" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#E91E63">BrandForce</text>
+  </symbol>
+  
+  <!-- Логотип 6 -->
+  <symbol id="client-logo-6" viewBox="0 0 120 60">
+    <rect width="120" height="60" rx="8" fill="#F5F7FA"/>
+    <circle cx="25" cy="25" r="8" fill="#607D8B"/>
+    <circle cx="35" cy="35" r="8" fill="#607D8B" opacity="0.7"/>
+    <text x="75" y="35" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#607D8B">GlobalTech</text>
+  </symbol>
+</svg>
